@@ -148,20 +148,20 @@
 		0F4325242171EDFA00D462BF /* FBRxSwiftBase */ = {
 			isa = PBXGroup;
 			children = (
+				0F3B2839217395F8005CB211 /* Bridging-Header.h */,
+				0F4325312171EDFB00D462BF /* Info.plist */,
 				0F4325252171EDFA00D462BF /* AppDelegate.swift */,
+				0F4325272171EDFA00D462BF /* ViewController.swift */,
+				0F43252C2171EDFB00D462BF /* Assets.xcassets */,
 				0F3B283A21739780005CB211 /* Architecture */,
 				0F3B283B217397A3005CB211 /* Assembler */,
-				0F43252C2171EDFB00D462BF /* Assets.xcassets */,
-				0F3B2839217395F8005CB211 /* Bridging-Header.h */,
 				0F3B283C217397B4005CB211 /* Domain */,
 				0F3B283D217397C5005CB211 /* Extensions */,
-				0F4325312171EDFB00D462BF /* Info.plist */,
 				0F43252E2171EDFB00D462BF /* LaunchScreen.storyboard */,
 				0F4325292171EDFA00D462BF /* Main.storyboard */,
 				0F3B283E217397CC005CB211 /* Platform */,
 				0F3B283F217397D5005CB211 /* Scenes */,
 				0F3B2840217397DE005CB211 /* Support */,
-				0F4325272171EDFA00D462BF /* ViewController.swift */,
 			);
 			path = FBRxSwiftBase;
 			sourceTree = "<group>";
