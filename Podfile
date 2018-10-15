@@ -19,6 +19,10 @@ def pods
     
     #
     pod 'SwiftLint', '~> 0.27'
+    pod 'MBProgressHUD', '~> 1.1'
+    pod 'SDWebImage', '~> 4.4'
+    pod 'ActionSheetPicker-3.0', '~> 2.3'
+    
 end
 
 def test_pods
